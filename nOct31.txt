@@ -1,0 +1,9 @@
+notes on managing ms versions
+
+むつかしいのはgitの用語と、実際のバージョンの時系列情報との整合性。
+git add とgit commit が出発点。
+修正用のクローンをつくる。
+修正をする。
+修正部分の merge をする。
+
+そういった流れだろうか。
