@@ -1,2 +1,4 @@
 This is a new line.
 And this is a good message, I think.
+
+Here is a change from gittutorial.
