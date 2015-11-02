@@ -3,3 +3,5 @@ And this is a good message, I think.
 
 Here is a change from gittutorial2.
 Here is a change from gittutorial.
+
+Here, I add a change at the merge point e90a598.
