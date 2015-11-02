@@ -7,5 +7,3 @@ Here is a change from gitwroking.
 
 Here, I add a change.
 Here, I add a change again.
-
-Here, I add a cahge again again.
