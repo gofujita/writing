@@ -13,3 +13,5 @@ change at 1704 on November 2 2015
 
 Here is a change at at 1708 on November 2 2015
 Here, I add a change at the merge point e90a598.
+
+\textbf{テキスト}
