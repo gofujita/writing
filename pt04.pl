@@ -1,3 +1,7 @@
+#!/usr/bin/perl
+#use strict;
+#use warnings;
+
 $points = 100;
 $max_x = 50;
 $max_y = 50;
