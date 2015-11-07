@@ -1,3 +1,8 @@
+ここに日本語も入力してみる。
+
+大切なことは、日本語を入力しても
+通常モードに戻ったときに半角にもどること。
+
 This is a new line.
 And this is a good message, I think.
 
