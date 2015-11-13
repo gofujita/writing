@@ -1,22 +1,3 @@
-ここに日本語も入力してみる。
+ここに日本語で文章を書く。このターミナルと vim でどれくらい文章が書きやすいか、それが問題だからだ。
 
-大切なことは、日本語を入力しても
-通常モードに戻ったときに半角にもどること。
-
-This is a new line.
-And this is a good message, I think.
-
-Here is a change from gittutorial2.
-Here is a change from gittutorial.
-Here is a change from gitwroking.
-
-Here, I add a change.
-Here, I add a change again.
-
-change at 1702 on November 2 2015
-change at 1704 on November 2 2015
-
-Here is a change at at 1708 on November 2 2015
-Here, I add a change at the merge point e90a598.
-
-\textbf{テキスト}
+今のところ、そんなに悪くない。こうやって書いていくことが大切なのだ。誰のことを考える必要もない。自分で考えていけば、いいのだ。
